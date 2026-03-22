@@ -32,16 +32,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O  DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-## 🔖 Layout
+## 🔖 Deploy Vercel
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/0tyuI98TrQniT8qQllDCuP/DevLinks-•-Projeto-Discover-(Community)?node-id=1437-191&t=qxEpA3xuvqfsKnRW-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://rocketnibs.vercel.app).
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
